@@ -24,4 +24,6 @@ body{
     width: 100%;
     max-width: 50rem;
     height: auto;
+    pointer-events: none;
+    user-select: none;
 }
